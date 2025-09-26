@@ -149,7 +149,7 @@ export default function MentorLayout({ children }: { children: React.ReactNode }
                       <h3 className="font-semibold text-sm mb-1">LDRP-ITR</h3>
                       <p className={`text-xs ${theme.textMuted}`}>Gandhinagar, Gujarat</p>
                       <p className={`text-xs ${theme.textMuted} mt-1`}>
-                        Est. 2008 • NAAC A+
+                        Est. 2008 
                       </p>
                     </div>
                     <Image
