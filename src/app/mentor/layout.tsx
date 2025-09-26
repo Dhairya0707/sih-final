@@ -163,7 +163,7 @@ export default function MentorLayout({
                         Gandhinagar, Gujarat
                       </p>
                       <p className={`text-xs ${theme.textMuted} mt-1`}>
-                        Est. 2008 • NAAC A+
+                        Est. 2008 
                       </p>
                     </div>
                     <Image
