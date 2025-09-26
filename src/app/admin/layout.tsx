@@ -197,7 +197,7 @@ export default function DashboardLayout({
                         Gandhinagar, Gujarat
                       </p>
                       <p className={`text-xs ${themeConfig.textMuted} mt-1`}>
-                        Est. 1995 • NAAC A+
+                        Est. 1995 
                       </p>
                     </div>
                     <Image
